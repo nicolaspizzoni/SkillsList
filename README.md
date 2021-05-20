@@ -20,7 +20,7 @@ $ cd myskills
 $ npm install 
 ```
 
-# Execute aplicação - Dependendo do PkgManager Utilizado
+### Execute aplicação - Dependendo do PkgManager Utilizado
 ```bash
 yarn start
 ```
