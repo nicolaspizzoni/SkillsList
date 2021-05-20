@@ -17,7 +17,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 $ cd myskills
 
 # Instale as dependências
-$ npm install 
+$ npm install
+
+# Instale o projeto no emulador/dispositivo (1° uso)
+react-native run-android
+
+OU
+
+react-native run-ios
 ```
 
 ### Execute aplicação - Dependendo do PkgManager Utilizado
@@ -30,16 +37,16 @@ npm start
 ```
 
 
-## :man: Autor
+## Autor
 
 <a href="https://github.com/nicolaspizzoni">
- <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" width="70px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" width="70px;" border-radius="35px;" alt=""/>
  <br />
  <sub><b>Nicolas Pizzoni</b></sub>
 </a>
 
 
-Feito por Nicolas Pizzoni 🎃 :wave: Entre em contato:
+Feito por Nicolas Pizzoni 🎃:wave: Entre em contato:
 
 <a href="https://www.linkedin.com/in/nicolas-pizzoni-989b19149/">
   <p>LinkedIn</p>
