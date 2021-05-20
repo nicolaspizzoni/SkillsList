@@ -14,10 +14,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 ```bash
 # Vá para a pasta myskills
-$ cd myskills
+cd myskills
 
 # Instale as dependências
-$ npm install
+npm install
 
 # Instale o projeto no emulador/dispositivo (1° uso)
 react-native run-android
@@ -40,7 +40,7 @@ npm start
 ## Autor
 
 <a href="https://github.com/nicolaspizzoni">
- <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" width="70px;" border-radius="35px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" width="70px;" border-radius="50%;" alt=""/>
  <br />
  <sub><b>Nicolas Pizzoni</b></sub>
 </a>
