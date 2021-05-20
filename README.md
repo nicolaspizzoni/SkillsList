@@ -40,7 +40,7 @@ npm start
 ## Autor
 
 <a href="https://github.com/nicolaspizzoni">
- <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" style="width: 80px; height: 80px; border-radius: 40px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/62205786?s=400&u=5e6471cfbd499cf1656beb6a4b7d72b2b674bd5d&v=4" style="width: 40px; height: 40px; border-radius: 50%;" alt=""/>
  <br />
  <sub><b>Nicolas Pizzoni</b></sub>
 </a>
